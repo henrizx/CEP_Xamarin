@@ -1,0 +1,4 @@
+# Outros arquivos e pastas que você quer ignorar
+
+# Ignorar a pasta .vs
+.vs/
